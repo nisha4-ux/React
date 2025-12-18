@@ -1,0 +1,61 @@
+/* Container for Login/Signup */
+.auth-container {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 40px;
+  background: linear-gradient(135deg, #e974d1, #f86977);
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  font-family: Arial, sans-serif;
+}
+
+/* Heading */
+.auth-container h1 {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Labels */
+.auth-container label {
+  display: block;
+  margin: 10px 0 5px;
+  color: white;
+  font-weight: 500;
+}
+
+/* Input fields */
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+/* Buttons */
+.auth-container button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ff6f91;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.auth-container button:hover {
+  background-color: #ff3d68;
+}
+
+/* Links to switch pages */
+.switch-link {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}

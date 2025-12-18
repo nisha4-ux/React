@@ -1,0 +1,15 @@
+.navbar {
+  height: 70px;
+  background: linear-gradient(90deg, #ee2e4e, #f0189d);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+}
