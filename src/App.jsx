@@ -292,23 +292,6 @@
 //   );
 // }
 
-// export default App;
-
-// import Home from "./pages/Home";
-
-// function App() {
-//   return <Home />;
-// }
-
-// export default App;
-
-// import Categories from "./pages/Categories";
-
-// function App() {
-//   return <Categories />;
-// }
-
-// export default App;
 
 import Home from "./pages/Home";
 import Categories from "./pages/Categories";
