@@ -8,7 +8,7 @@ const FoodCategoryCard = ({ item }) => {
         src={item.image}
         alt={item.name}
         className="w-84 h-24 object-contain"
-      />
+      />  
 
       <p className="mt-2 text-sm font-medium text-gray-700">
         {item.name}

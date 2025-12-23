@@ -83,9 +83,11 @@ import Navbar from "../Components/Navbar";
 import Hero from "../Components/Hero";
 import CategoryCard from "../Components/CategoryCard";
 import categories from "../data/categories";
+
 import AppBanner from "../Components/AppBanner";
 import CitySection from "../Components/CitySection";
 import Footer from "../Components/Footer";
+
 
 // Importing data
 import { foodCities, groceryCities } from "../data/citiesData";

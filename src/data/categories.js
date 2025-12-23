@@ -10,7 +10,7 @@ const categories = [
     id: 2,
     title: "INSTAMART",
     subtitle: "INSTANT GROCERY",
-    offer: "UPTO 60% OFF",
+    offer: "UPTO 60% OFF" ,
     image: ""
   },
   {
